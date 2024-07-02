@@ -5,7 +5,10 @@
 
 
 ## Instalação
-
+Clone o repositório
+```
+git clone "https://github.com/lazarowend/django_pre_configured.git"
+```
 Crie o ambiente virtual
 ```bash
 # linux
